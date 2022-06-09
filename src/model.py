@@ -91,12 +91,12 @@ class MainObject(Client):
 
 
     
-init = time.time()
+# init = time.time()
 
-a = MainObject()
-a.generate_hashes()
-a.save_in_json()
-a.save_in_db('countries.sqlite')
+# a = MainObject()
+# a.generate_hashes()
+# a.save_in_json()
+# a.save_in_db('countries.sqlite')
 
 
 # database = DB('example.sqlite')
@@ -109,5 +109,5 @@ a.save_in_db('countries.sqlite')
 
 # print(database.get_all_from('countries'))
 
-finish = time.time()
-print('Time {} s'.format(finish - init))
+# finish = time.time()
+# print('Time {} s'.format(finish - init))
