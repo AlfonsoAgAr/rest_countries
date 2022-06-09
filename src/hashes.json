@@ -1,0 +1,1002 @@
+{
+    "Germany" : {
+        "hash" : "6945e6dd6badf6e2698a73327b59a35d6b27a65a",
+        "time" : 0.030040740966796875
+    },
+    "Morocco" : {
+        "hash" : "cd67283ecb0ea118480f8761142499cb03d0db75",
+        "time" : 0.003814697265625
+    },
+    "Belgium" : {
+        "hash" : "440eca4e33673aaf0562a531fabd5161b7142dc6",
+        "time" : 0.0030994415283203125
+    },
+    "Cook Islands" : {
+        "hash" : "cb02edd268b06fd81c8838985da976688dc03946",
+        "time" : 0.00286102294921875
+    },
+    "Ecuador" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.00286102294921875
+    },
+    "Saint Kitts and Nevis" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Rwanda" : {
+        "hash" : "dc8209dcf467e7a0de93c121fde8bcc4476bd0e5",
+        "time" : 0.0026226043701171875
+    },
+    "Guyana" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Northern Mariana Islands" : {
+        "hash" : "66a439dfcb68f4c7ee12deefa195624736850eeb",
+        "time" : 0.00286102294921875
+    },
+    "Botswana" : {
+        "hash" : "1de52b1b00ce93da1aaa4a384b873090df585621",
+        "time" : 0.002384185791015625
+    },
+    "Bouvet Island" : {
+        "hash" : "bcc846272d894f1653bf6a40fdd68bb41503943d",
+        "time" : 0.0021457672119140625
+    },
+    "China" : {
+        "hash" : "8b2e3cf1000eba9321f52f00c5cbca17c678ac35",
+        "time" : 0.0021457672119140625
+    },
+    "Grenada" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Senegal" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Guam" : {
+        "hash" : "5a79dfd77dff7a37f9e5689362a5323eded4c0ca",
+        "time" : 0.0026226043701171875
+    },
+    "Republic of the Congo" : {
+        "hash" : "0d2814677a2cc6599596c6139ea7667590a6751d",
+        "time" : 0.0026226043701171875
+    },
+    "Thailand" : {
+        "hash" : "d470d198a382dec9ca4342e4067ddf3f43ba3f36",
+        "time" : 0.0021457672119140625
+    },
+    "Jordan" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0021457672119140625
+    },
+    "Colombia" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0026226043701171875
+    },
+    "Pitcairn Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Norway" : {
+        "hash" : "931c2cbe413020978e3c3ac232c1f2948d783c6a",
+        "time" : 0.002384185791015625
+    },
+    "Comoros" : {
+        "hash" : "c89ea6f94c260905854af64cd9759e2980e2b20f",
+        "time" : 0.002384185791015625
+    },
+    "French Southern and Antarctic Lands" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Cape Verde" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.0026226043701171875
+    },
+    "Cyprus" : {
+        "hash" : "aaf2d1786e6e77caf743d7b485bf04173aed6d8e",
+        "time" : 0.0026226043701171875
+    },
+    "Kiribati" : {
+        "hash" : "1cd99af34234ca8de9ff3572f5e5d167085e0fdf",
+        "time" : 0.0026226043701171875
+    },
+    "Central African Republic" : {
+        "hash" : "5877693f085b14ee091d56fd963c4797149f18af",
+        "time" : 0.002384185791015625
+    },
+    "Caribbean Netherlands" : {
+        "hash" : "441d3bec0ddf492c7d413447e7e1c33089e12429",
+        "time" : 0.0026226043701171875
+    },
+    "Puerto Rico" : {
+        "hash" : "6f7ffc507d9eb86e39cdc6ad7577a9aa6d38b442",
+        "time" : 0.002384185791015625
+    },
+    "Cocos (Keeling) Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Palestine" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.002384185791015625
+    },
+    "Turkmenistan" : {
+        "hash" : "053c83bb195eed4bfc040f676e533426102f9d7f",
+        "time" : 0.002384185791015625
+    },
+    "British Indian Ocean Territory" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Qatar" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.002384185791015625
+    },
+    "Greenland" : {
+        "hash" : "fc15cc10be16de74b1067b8a71d1196f2d2501ff",
+        "time" : 0.0021457672119140625
+    },
+    "Romania" : {
+        "hash" : "f43467c14d28ff2c3a90ec9ff1315048b94460ba",
+        "time" : 0.0026226043701171875
+    },
+    "Saint Helena, Ascension and Tristan da Cunha" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Niue" : {
+        "hash" : "9ca59dcaaf1da6a45a652a757e18df8cf770acad",
+        "time" : 0.002384185791015625
+    },
+    "India" : {
+        "hash" : "3d725b3552e9fd3601d7283bb79ded6b6fa3b168",
+        "time" : 0.0026226043701171875
+    },
+    "Réunion" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Uzbekistan" : {
+        "hash" : "d6e2bcec5ea1100e3eec28fdffa6f825abf0168c",
+        "time" : 0.0026226043701171875
+    },
+    "Armenia" : {
+        "hash" : "f2167d095d5e2515c7dac9675946bdad54089426",
+        "time" : 0.002384185791015625
+    },
+    "Kuwait" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0026226043701171875
+    },
+    "Sint Maarten" : {
+        "hash" : "685b1ba0b296fbc723aacfee4f83a38d534be7b4",
+        "time" : 0.0026226043701171875
+    },
+    "Bulgaria" : {
+        "hash" : "a28412702092be1bcaea1e63a95d4daaacbfd4cd",
+        "time" : 0.0021457672119140625
+    },
+    "Israel" : {
+        "hash" : "96d1b313155a6ee4ebe5e34166279b874b0e8eca",
+        "time" : 0.002384185791015625
+    },
+    "Uruguay" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.002384185791015625
+    },
+    "Vanuatu" : {
+        "hash" : "d9391a818f1b92e898adc10fd19973a93a4352b2",
+        "time" : 0.00286102294921875
+    },
+    "Vietnam" : {
+        "hash" : "b7d8d189201b4347ae85035356095897485118e7",
+        "time" : 0.0026226043701171875
+    },
+    "American Samoa" : {
+        "hash" : "e5c53bc0b1230aa06f1ba23cd3c0e95fd2dd0912",
+        "time" : 0.0026226043701171875
+    },
+    "Burkina Faso" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0021457672119140625
+    },
+    "Panama" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0021457672119140625
+    },
+    "French Guiana" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Iraq" : {
+        "hash" : "70f9aa876afcf6dac1f899ccc4e39cdb621737db",
+        "time" : 0.0026226043701171875
+    },
+    "Taiwan" : {
+        "hash" : "8b2e3cf1000eba9321f52f00c5cbca17c678ac35",
+        "time" : 0.0026226043701171875
+    },
+    "Ivory Coast" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Sri Lanka" : {
+        "hash" : "97580a4defcd649e0a24c602be0c88d6be980efd",
+        "time" : 0.0026226043701171875
+    },
+    "Moldova" : {
+        "hash" : "f43467c14d28ff2c3a90ec9ff1315048b94460ba",
+        "time" : 0.0021457672119140625
+    },
+    "United Kingdom" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Greece" : {
+        "hash" : "e3ce0d04f5ecd03f68af138e1a6cf81e92be466c",
+        "time" : 0.0021457672119140625
+    },
+    "São Tomé and Príncipe" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.002384185791015625
+    },
+    "Mali" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "South Africa" : {
+        "hash" : "c91f16c0961533c70c58aeb8485538e6aa057be2",
+        "time" : 0.003337860107421875
+    },
+    "Iceland" : {
+        "hash" : "ea9d7036dc87ae98a7ac9100de249a4cdbccc936",
+        "time" : 0.002384185791015625
+    },
+    "South Korea" : {
+        "hash" : "3c74eeed29f940940ed44b1120c5b220517be13d",
+        "time" : 0.002384185791015625
+    },
+    "Chile" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.002384185791015625
+    },
+    "Mauritius" : {
+        "hash" : "f63304f9713d0106ea3dec24470dcfbf22ae993f",
+        "time" : 0.0026226043701171875
+    },
+    "Kosovo" : {
+        "hash" : "4368aad95aff0232edf706fb296712fc5e732515",
+        "time" : 0.002384185791015625
+    },
+    "Slovenia" : {
+        "hash" : "43f6d291b1c72be46fcb74b3aafeed3892b3ce86",
+        "time" : 0.002384185791015625
+    },
+    "Czechia" : {
+        "hash" : "995400f3815cf24f0896e0edcda2093eee00143e",
+        "time" : 0.002384185791015625
+    },
+    "San Marino" : {
+        "hash" : "f0b538325b8cc2565702ebe23044cf5c8e76f716",
+        "time" : 0.0021457672119140625
+    },
+    "Belarus" : {
+        "hash" : "895798ff8129b792af0d811f3fffe6e91490e0b9",
+        "time" : 0.0026226043701171875
+    },
+    "Georgia" : {
+        "hash" : "032b100fa40d846096bbc78027a3e3e3eb9094e0",
+        "time" : 0.002384185791015625
+    },
+    "Switzerland" : {
+        "hash" : "b2660d9a442d0973690bfe5772b63b5678ae92b8",
+        "time" : 0.00286102294921875
+    },
+    "Cuba" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.002384185791015625
+    },
+    "Norfolk Island" : {
+        "hash" : "a08aeb8fafc4f0036359ba995d2be5866b008962",
+        "time" : 0.0026226043701171875
+    },
+    "DR Congo" : {
+        "hash" : "0067b2abbae70b6e264ed01abeb7ed58a25e69cb",
+        "time" : 0.0026226043701171875
+    },
+    "Saint Martin" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Sweden" : {
+        "hash" : "553056a421c986cc2cf34b4b3ceb3afe246dc44d",
+        "time" : 0.002384185791015625
+    },
+    "Hungary" : {
+        "hash" : "6dcbdeacf0d7c6790a263c944c9c697a65f7524c",
+        "time" : 0.002384185791015625
+    },
+    "Aruba" : {
+        "hash" : "eef326de7b16089a8169a38001a1b239b8286005",
+        "time" : 0.0026226043701171875
+    },
+    "United Arab Emirates" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0026226043701171875
+    },
+    "Montenegro" : {
+        "hash" : "90748413f91bc2871f79755e8200e6a975cb2ea7",
+        "time" : 0.0021457672119140625
+    },
+    "North Korea" : {
+        "hash" : "3c74eeed29f940940ed44b1120c5b220517be13d",
+        "time" : 0.0021457672119140625
+    },
+    "Tajikistan" : {
+        "hash" : "b5f6133f840946484a45df0d0b503dc0e36dfe93",
+        "time" : 0.0026226043701171875
+    },
+    "Libya" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.002384185791015625
+    },
+    "Yemen" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0021457672119140625
+    },
+    "Netherlands" : {
+        "hash" : "ee9651de716bd4bc4d6e67856f20bd308af2bdac",
+        "time" : 0.002384185791015625
+    },
+    "Heard Island and McDonald Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "New Caledonia" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Kazakhstan" : {
+        "hash" : "2b648d070c8333b7ac8aa71f795cb05cc5d0cfb0",
+        "time" : 0.0026226043701171875
+    },
+    "British Virgin Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Lebanon" : {
+        "hash" : "a8186edc26dd74be30f65d47781e83f1648a5749",
+        "time" : 0.002384185791015625
+    },
+    "Nigeria" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Antigua and Barbuda" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Poland" : {
+        "hash" : "d5abb35b09dc307686e36eb5c67b066551139ac2",
+        "time" : 0.002384185791015625
+    },
+    "Bosnia and Herzegovina" : {
+        "hash" : "41bf452f8e2243757f7b219b5fd124e7b246fa4e",
+        "time" : 0.00286102294921875
+    },
+    "Australia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Algeria" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0021457672119140625
+    },
+    "Madagascar" : {
+        "hash" : "e4e54d2734280784e41cf776aa2fe96d1c212107",
+        "time" : 0.002384185791015625
+    },
+    "Trinidad and Tobago" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Suriname" : {
+        "hash" : "ee9651de716bd4bc4d6e67856f20bd308af2bdac",
+        "time" : 0.0026226043701171875
+    },
+    "Nepal" : {
+        "hash" : "9a4e6a9ac7834581f4592b732796c48fb0dab9bc",
+        "time" : 0.0026226043701171875
+    },
+    "Indonesia" : {
+        "hash" : "378066bec65acda85afcd569d10cffd7a3db23ac",
+        "time" : 0.002384185791015625
+    },
+    "Azerbaijan" : {
+        "hash" : "e3120d1f0f73a97cc2175dd2dfd3bd86adcb866d",
+        "time" : 0.0026226043701171875
+    },
+    "Spain" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0021457672119140625
+    },
+    "El Salvador" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0021457672119140625
+    },
+    "Hong Kong" : {
+        "hash" : "35ee190f7fbb96c612e108c5637a1504312076dc",
+        "time" : 0.0026226043701171875
+    },
+    "Tokelau" : {
+        "hash" : "10fa6428754c5b99d94026793585d1ff14be6286",
+        "time" : 0.002384185791015625
+    },
+    "Marshall Islands" : {
+        "hash" : "ee7b023720116c7ec79c856a995f3d439de8e97d",
+        "time" : 0.002384185791015625
+    },
+    "Russia" : {
+        "hash" : "a58629269f245344f3abb6c80f2fc7c85bff75bf",
+        "time" : 0.002384185791015625
+    },
+    "Saint Lucia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Tuvalu" : {
+        "hash" : "209845a9cde23c886d754625cc9ab7019a58c369",
+        "time" : 0.002384185791015625
+    },
+    "Equatorial Guinea" : {
+        "hash" : "27ce8ad940f226562c84ae9f960305a0b9c72e2b",
+        "time" : 0.00286102294921875
+    },
+    "Malaysia" : {
+        "hash" : "6be153c6566214291245b6335bb20ccffe3c4c1c",
+        "time" : 0.0026226043701171875
+    },
+    "Malawi" : {
+        "hash" : "37372653bfb0fccd06ade28d0c7e7b02a42c9c5e",
+        "time" : 0.002384185791015625
+    },
+    "Seychelles" : {
+        "hash" : "6b85bee1f9ddfb5dd1e793b2d71f7f3db45f6be1",
+        "time" : 0.00286102294921875
+    },
+    "Malta" : {
+        "hash" : "641a500c314f6996285a76b205e78c0cf2497a19",
+        "time" : 0.0026226043701171875
+    },
+    "Dominica" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Oman" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0026226043701171875
+    },
+    "Angola" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.002384185791015625
+    },
+    "Portugal" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.0026226043701171875
+    },
+    "Cameroon" : {
+        "hash" : "143672f917964e7d7751de03e440150ac5c2abf0",
+        "time" : 0.002384185791015625
+    },
+    "Estonia" : {
+        "hash" : "e0935f53b08e2182009da2b691663db0e11ade47",
+        "time" : 0.002384185791015625
+    },
+    "Eritrea" : {
+        "hash" : "3624bcd011e13aa7def84f0be0c63df3a4ac4573",
+        "time" : 0.002384185791015625
+    },
+    "Mauritania" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.002384185791015625
+    },
+    "Montserrat" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Canada" : {
+        "hash" : "143672f917964e7d7751de03e440150ac5c2abf0",
+        "time" : 0.0026226043701171875
+    },
+    "Luxembourg" : {
+        "hash" : "3d40086c4c0b78e642f0a25e6121168ec6c99a42",
+        "time" : 0.002384185791015625
+    },
+    "Albania" : {
+        "hash" : "236f1d1e787301da4fdd439616e81a1e76a0983d",
+        "time" : 0.0021457672119140625
+    },
+    "Saint Pierre and Miquelon" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Mayotte" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Fiji" : {
+        "hash" : "588b8b153b5b0f172386b977e0124d190d68605b",
+        "time" : 0.0026226043701171875
+    },
+    "Sierra Leone" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Turks and Caicos Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Curaçao" : {
+        "hash" : "441d3bec0ddf492c7d413447e7e1c33089e12429",
+        "time" : 0.002384185791015625
+    },
+    "Ukraine" : {
+        "hash" : "f1c7117eeef59297f61838681c2900ca37473709",
+        "time" : 0.0021457672119140625
+    },
+    "North Macedonia" : {
+        "hash" : "8a99ab9121d302daa1d1d9ff86f3e8f4762c06cf",
+        "time" : 0.0026226043701171875
+    },
+    "Andorra" : {
+        "hash" : "1527c8456984256a138e2da9d691d3a496bd79e3",
+        "time" : 0.002384185791015625
+    },
+    "Namibia" : {
+        "hash" : "7c52e529e00794dd89b4e6a52f05893b6550d842",
+        "time" : 0.0030994415283203125
+    },
+    "Samoa" : {
+        "hash" : "e5c53bc0b1230aa06f1ba23cd3c0e95fd2dd0912",
+        "time" : 0.002384185791015625
+    },
+    "Syria" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0021457672119140625
+    },
+    "Argentina" : {
+        "hash" : "f98ddba1b52620eb300b7881d335d2157432240a",
+        "time" : 0.0026226043701171875
+    },
+    "Western Sahara" : {
+        "hash" : "64ce798e98d0eaf870fd0e2e40d78150676024ca",
+        "time" : 0.002384185791015625
+    },
+    "Mozambique" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.002384185791015625
+    },
+    "Guinea" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Tunisia" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0021457672119140625
+    },
+    "Falkland Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Lesotho" : {
+        "hash" : "46fd22e279e268957a44389e60dfacf9efa18fe0",
+        "time" : 0.002384185791015625
+    },
+    "Croatia" : {
+        "hash" : "eb43c86e1f6dbeede1f2ec1c16e269570bb9edb9",
+        "time" : 0.0026226043701171875
+    },
+    "Liberia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Papua New Guinea" : {
+        "hash" : "de0424c7b13677b57e481e8e31f66647d7085ead",
+        "time" : 0.002384185791015625
+    },
+    "Finland" : {
+        "hash" : "2ba099e40ef3b57be7551be6202a56f02c781940",
+        "time" : 0.002384185791015625
+    },
+    "Antarctica" : {
+        "hash" : "6eef6648406c333a4035cd5e60d0bf2ecf2606d7",
+        "time" : 0.0030994415283203125
+    },
+    "Burundi" : {
+        "hash" : "a580e74b305471b64546b3b1491748ffd3baba9c",
+        "time" : 0.0026226043701171875
+    },
+    "Bolivia" : {
+        "hash" : "ea3c304dd761c8a3b2b260bc15d6371ff7e44ef4",
+        "time" : 0.00286102294921875
+    },
+    "Togo" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0021457672119140625
+    },
+    "Barbados" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Gibraltar" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Ethiopia" : {
+        "hash" : "2c895ef0d7f54644f6dda8fa5f446fc763820ab8",
+        "time" : 0.002384185791015625
+    },
+    "Chad" : {
+        "hash" : "a8186edc26dd74be30f65d47781e83f1648a5749",
+        "time" : 0.002384185791015625
+    },
+    "Gambia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "New Zealand" : {
+        "hash" : "f077be68896d4cbbeccfc955c8bc151023c2d6d9",
+        "time" : 0.00286102294921875
+    },
+    "United States Minor Outlying Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Timor-Leste" : {
+        "hash" : "40950eccfd76c8a45d0f561bb60a2648f66e6f0a",
+        "time" : 0.0026226043701171875
+    },
+    "Turkey" : {
+        "hash" : "fde39b5f9b09cf2f355fce136caa1665a26dac78",
+        "time" : 0.002384185791015625
+    },
+    "Cambodia" : {
+        "hash" : "3cd658f722e48d75ddd6e1ca58f854b242d65bef",
+        "time" : 0.002384185791015625
+    },
+    "Lithuania" : {
+        "hash" : "42a3378e93162b5c652fab151358aea675083289",
+        "time" : 0.0021457672119140625
+    },
+    "Sudan" : {
+        "hash" : "ee87eb211caac99e1ba4de6f2220ea1969169579",
+        "time" : 0.0026226043701171875
+    },
+    "Anguilla" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Italy" : {
+        "hash" : "f0b538325b8cc2565702ebe23044cf5c8e76f716",
+        "time" : 0.002384185791015625
+    },
+    "Maldives" : {
+        "hash" : "5839eae2a18d40ed4a8b427e994cbcdd226428c8",
+        "time" : 0.0026226043701171875
+    },
+    "French Polynesia" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Austria" : {
+        "hash" : "5ac4f6a6008994de2680983ad71f12c7d8ff0a91",
+        "time" : 0.0026226043701171875
+    },
+    "Belize" : {
+        "hash" : "479e444bd1a7191312a533df92f8a3eaabe15d26",
+        "time" : 0.0026226043701171875
+    },
+    "Kyrgyzstan" : {
+        "hash" : "c2a1c1a16b9c9f1616ccae3ef449ee77d0fb039b",
+        "time" : 0.0021457672119140625
+    },
+    "Laos" : {
+        "hash" : "4a868eded73e3b0167664ae82284a506bb1a4930",
+        "time" : 0.0021457672119140625
+    },
+    "Dominican Republic" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0026226043701171875
+    },
+    "Honduras" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.002384185791015625
+    },
+    "Eswatini" : {
+        "hash" : "e672805e34eaabdebaaad370843f6dd3cb4ea331",
+        "time" : 0.0026226043701171875
+    },
+    "Guinea-Bissau" : {
+        "hash" : "bb8f9406503cb768c0b238eded6a422b4db542ef",
+        "time" : 0.0026226043701171875
+    },
+    "Niger" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0021457672119140625
+    },
+    "Peru" : {
+        "hash" : "c7818e6803da4845a4e34b64eba83072549da3f8",
+        "time" : 0.002384185791015625
+    },
+    "Bahrain" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0026226043701171875
+    },
+    "Saint Barthélemy" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Brunei" : {
+        "hash" : "9d117c130a73be83108c5f2a9af4f6d0eebc6a6c",
+        "time" : 0.002384185791015625
+    },
+    "Cayman Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Paraguay" : {
+        "hash" : "f98ddba1b52620eb300b7881d335d2157432240a",
+        "time" : 0.0026226043701171875
+    },
+    "Benin" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0021457672119140625
+    },
+    "Iran" : {
+        "hash" : "f6b29727fb5a5ad211dc13036d27c6e0724fca4a",
+        "time" : 0.03314018249511719
+    },
+    "Macau" : {
+        "hash" : "ae2f56f39e7c26f01d12983118b89d34355e690b",
+        "time" : 0.0059604644775390625
+    },
+    "Mexico" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0064373016357421875
+    },
+    "Jersey" : {
+        "hash" : "b9bb3b8c172d455c8e632d7c2819f45da2cfac1a",
+        "time" : 0.0073909759521484375
+    },
+    "Somalia" : {
+        "hash" : "c1d85f1766e3bc31511329890f5e48b33691abd6",
+        "time" : 0.003814697265625
+    },
+    "Latvia" : {
+        "hash" : "8c5a8220ca75f19bacf2b62df04bc946bfe1438a",
+        "time" : 0.002384185791015625
+    },
+    "Tanzania" : {
+        "hash" : "5574c731da4eee51c215b9e12df7b34be1a581af",
+        "time" : 0.0026226043701171875
+    },
+    "Venezuela" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.00476837158203125
+    },
+    "Mongolia" : {
+        "hash" : "1d9b503b07179bd4a5d60e43298b9069cface193",
+        "time" : 0.003337860107421875
+    },
+    "Costa Rica" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0045299530029296875
+    },
+    "Tonga" : {
+        "hash" : "a60dc5eae03e29f2aeea5b6f9fc2b697611d881d",
+        "time" : 0.00667572021484375
+    },
+    "Brazil" : {
+        "hash" : "da9ecc5a8076b2612d966fd931fdc3ab9281763e",
+        "time" : 0.0035762786865234375
+    },
+    "Zimbabwe" : {
+        "hash" : "3602dccc209c4c55fd1b27cdc42b45f246956e68",
+        "time" : 0.0057220458984375
+    },
+    "Bhutan" : {
+        "hash" : "7d910e084289b44e0cd35763410108866aab88ca",
+        "time" : 0.0050067901611328125
+    },
+    "Kenya" : {
+        "hash" : "5574c731da4eee51c215b9e12df7b34be1a581af",
+        "time" : 0.0045299530029296875
+    },
+    "Saint Vincent and the Grenadines" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.003337860107421875
+    },
+    "Åland Islands" : {
+        "hash" : "553056a421c986cc2cf34b4b3ceb3afe246dc44d",
+        "time" : 0.00286102294921875
+    },
+    "Isle of Man" : {
+        "hash" : "fe15c41916ab09ca52eda219a4190b002ef710c6",
+        "time" : 0.00286102294921875
+    },
+    "Ireland" : {
+        "hash" : "018ad9bf435aedb8594508873f03446284553686",
+        "time" : 0.0026226043701171875
+    },
+    "Haiti" : {
+        "hash" : "ffe1745d4f494ebda7475689f0902c81eae174c8",
+        "time" : 0.0030994415283203125
+    },
+    "Myanmar" : {
+        "hash" : "5d9fad446b33f20270fc6fd177b5595778576e98",
+        "time" : 0.0030994415283203125
+    },
+    "Guadeloupe" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.002384185791015625
+    },
+    "Jamaica" : {
+        "hash" : "86c7a42142103f1b437f80cbd075860d126901f3",
+        "time" : 0.0026226043701171875
+    },
+    "Bahamas" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "France" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.00286102294921875
+    },
+    "Singapore" : {
+        "hash" : "57e55f819fa221b978d4bc19331f007af2cd56a6",
+        "time" : 0.00286102294921875
+    },
+    "Wallis and Futuna" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0021457672119140625
+    },
+    "Faroe Islands" : {
+        "hash" : "ca19c276392d54429705edd6ff9ab6d86b82632b",
+        "time" : 0.00286102294921875
+    },
+    "Afghanistan" : {
+        "hash" : "27de4afc22992e710c5bb708c8c46c7157c9a192",
+        "time" : 0.00286102294921875
+    },
+    "Svalbard and Jan Mayen" : {
+        "hash" : "bcc846272d894f1653bf6a40fdd68bb41503943d",
+        "time" : 0.0026226043701171875
+    },
+    "South Sudan" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Serbia" : {
+        "hash" : "39e2e1c80782a16c018921549970dcc355688456",
+        "time" : 0.0026226043701171875
+    },
+    "Vatican City" : {
+        "hash" : "94fbf49529dd6c705e625ebe1f716c3a525a6a74",
+        "time" : 0.002384185791015625
+    },
+    "Nicaragua" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.0026226043701171875
+    },
+    "Uganda" : {
+        "hash" : "5574c731da4eee51c215b9e12df7b34be1a581af",
+        "time" : 0.00286102294921875
+    },
+    "United States" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Egypt" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.0026226043701171875
+    },
+    "Martinique" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Philippines" : {
+        "hash" : "41c60cdb2ffdac7bbb5a8f7b94071b80d6101e74",
+        "time" : 0.0030994415283203125
+    },
+    "South Georgia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.00286102294921875
+    },
+    "Zambia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    },
+    "Solomon Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Ghana" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Gabon" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Pakistan" : {
+        "hash" : "1a70f242a797ca8f3d39d6288849d3a5fb806fd2",
+        "time" : 0.00286102294921875
+    },
+    "Saudi Arabia" : {
+        "hash" : "1092988837843e043779d7628c014ba39445e913",
+        "time" : 0.002384185791015625
+    },
+    "Guernsey" : {
+        "hash" : "097818072293145e02be36c2087abfa2662b06fe",
+        "time" : 0.0026226043701171875
+    },
+    "Guatemala" : {
+        "hash" : "5af3a9fef0624e2d653fa183e5ac23b8a3d49ca1",
+        "time" : 0.00286102294921875
+    },
+    "Nauru" : {
+        "hash" : "28da67471b9f022e9f4d8f678f4a162f18e8f6f7",
+        "time" : 0.00286102294921875
+    },
+    "Monaco" : {
+        "hash" : "6edea3aaaeeb6605056e9f50ab8b26cf60c5e6e0",
+        "time" : 0.0026226043701171875
+    },
+    "Christmas Island" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Japan" : {
+        "hash" : "1e1458957e8bbab4f584bd34489fa82930ab0cc4",
+        "time" : 0.0026226043701171875
+    },
+    "Liechtenstein" : {
+        "hash" : "6945e6dd6badf6e2698a73327b59a35d6b27a65a",
+        "time" : 0.00286102294921875
+    },
+    "Palau" : {
+        "hash" : "376d9db093519d7ad4a5179d56afaa8c6f0fc67d",
+        "time" : 0.00286102294921875
+    },
+    "Djibouti" : {
+        "hash" : "a8186edc26dd74be30f65d47781e83f1648a5749",
+        "time" : 0.0021457672119140625
+    },
+    "United States Virgin Islands" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0021457672119140625
+    },
+    "Bermuda" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.0026226043701171875
+    },
+    "Slovakia" : {
+        "hash" : "2e26c37c9ba50c8f304813c776f6421a59ebe5a6",
+        "time" : 0.0026226043701171875
+    },
+    "Bangladesh" : {
+        "hash" : "c32aed090e7d97bb01297b0ccc54d62eb99b6b64",
+        "time" : 0.0026226043701171875
+    },
+    "Denmark" : {
+        "hash" : "88b7add1ed4c9ef92a823fde51a9866628255261",
+        "time" : 0.002384185791015625
+    },
+    "Micronesia" : {
+        "hash" : "e1bd32fed3366a97490ea487e0008e1cf33c1996",
+        "time" : 0.002384185791015625
+    }
+}
