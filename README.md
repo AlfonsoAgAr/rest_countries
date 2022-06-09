@@ -20,9 +20,9 @@ Al cliente se le añaden los métodos que consumen la API.
 4. Se creó una entidad principal llamada MainObject que funciona como un puente entre la API y la DB. Esta clase tiene un método que hashea el lenguaje y lo almacena en hashes.json, que se utiliza para crear Country.
 El método creator crea a Country y luego regresa el diccionario de cada uno de las propiedades del objeto.
 La propiedad get_all_data, llama al cliente que consume la API y regresa la llamada en string que luego convierte a JSON (porqué http.client únicamente recibe bytes y no posee métodos que conviertan a JSON).
-5. Finalmente a través un [script]('./src/dataframe.py') o de un [cuaderno]('./src/Solucion_1.ipynb'), se pueden servir los datos en Pandas para mostrar las estadísticas y la Tabla.
+5. Finalmente a través un [script](https://github.com/AlfonsoAgAr/rest_countries/blob/master/src/dataframe.py) o de un [cuaderno](https://github.com/AlfonsoAgAr/rest_countries/blob/master/src/Solucion_1.ipynb), se pueden servir los datos en Pandas para mostrar las estadísticas y la Tabla.
 
 ![Diagrama](./docs/diagram.png)
 
 ---
-Se realizaron [pruebas unitarias]('./tests/request_test.py') al Cliente ya que es el principal proveedor de datos de la aplicación.
+Se realizaron [pruebas unitarias](https://github.com/AlfonsoAgAr/rest_countries/blob/master/tests/request_test.py) al Cliente ya que es el principal proveedor de datos de la aplicación.
