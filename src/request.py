@@ -46,8 +46,9 @@ class Request(http.client.HTTPSConnection):
             headers=self.headers
             )
 
+        # return self.getresponse() # Time -> ~ 0.49781370162963867 s. Return bytes.
         _r = self.getresponse()
-
+        
         self.response = ResponseType(
             headers = _r.getheaders(), 
             text = _r.read().decode('utf-8'), 
@@ -56,7 +57,7 @@ class Request(http.client.HTTPSConnection):
 
         self.close()
 
-        return self.response
+        return self.response # Time -> ~ 3.900397777557373 s. The method self.read() serialize the bytes and add 3.5 s.
 
 class Client(Request):
     """
