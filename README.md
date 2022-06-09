@@ -22,7 +22,7 @@ El método creator crea a Country y luego regresa el diccionario de cada uno de 
 La propiedad get_all_data, llama al cliente que consume la API y regresa la llamada en string que luego convierte a JSON (porqué http.client únicamente recibe bytes y no posee métodos que conviertan a JSON).
 5. Finalmente a través un [script]('./src/dataframe.py') o de un [cuaderno]('./src/Solucion_1.ipynb'), se pueden servir los datos en Pandas para mostrar las estadísticas y la Tabla.
 
-![Diagrama](./docs/1.png)
+![Diagrama](./docs/diagram.png)
 
 ---
 Se realizaron [pruebas unitarias]('./tests/request_test.py') al Cliente ya que es el principal proveedor de datos de la aplicación.
